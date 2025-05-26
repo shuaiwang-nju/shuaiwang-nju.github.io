@@ -24,7 +24,24 @@ His research interest includes speaker modeling,target speaker processing,  spee
 <a href='https://scholar.google.com/citations?user=vW1ZaucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-# 🔥 News
+# 🔥 Openings
+I will have several openings for graduate students (2026 Fall), will update details ASAP. I am currently looking for research assistants, please feel free to drop me an email with your CV if you are interested in the following topics:
+
+- Speaker Modeling
+- Target Speaker Processing
+- Speech Generation
+- Music Generation
+- Brain-inspired speech processing (EEG, sEEG ...)
+
+## 👩🏻‍🎓 Students
+
+Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
+
+- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟计划）.
+- Zhijun Liu, CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
+- Sho Inoue, CUHK-Shenzhen, Speech Syntesis, Intern @ NetEase and Meta FAIR.
+- Qibing Bai, CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
+- Wenxuan Wu, CUHK, Target Speech Extraction
 
 
 # 📝 Publications 
