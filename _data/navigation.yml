@@ -6,8 +6,8 @@ main:
   - title: "Openings"
     url: "/#-openings"
 
-  - title: "Students"
-     url:"/#-students"
+  # - title: "Students"
+  #    url:"/#-students"
 
   - title: "Publications"
     url: "/#-publications"
