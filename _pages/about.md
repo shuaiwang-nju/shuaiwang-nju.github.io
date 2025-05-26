@@ -33,7 +33,7 @@ I will have several openings for graduate students (2026 Fall), will update deta
 - Music Generation
 - Brain-inspired speech processing
 
-# 👩🏻‍🎓 Students
+# 👩🏻 Students
 
 Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
 
@@ -69,7 +69,9 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=vW1Za
 - *2018* IEEE Ganesh N. Ramaswamy Memorial Student Grant Award
 
 # 🎖 Services
-I serve as a regular reviewer for multiple conferences and journals, including ICASSP, Interspeech, ASRU, SLT, T-ASLP, Computer Speech & Language, Speech Communication; ICML, Neurips, AAAI, ACM MM.
+I serve as a regular reviewer for multiple conferences and journals, including 
+- ICASSP, Interspeech, ASRU, SLT, T-ASLP, Computer Speech & Language, Speech Communication; 
+- ICML, Neurips, AAAI, ACM MM.
 
 I serve as the Specical Session Chair of APSIPA 2025, the Operation Chair of ICASSP 2025 Suzhou Satellite Event, the Publication Chair of SLT 2024.
 
