@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Shuai Wang is currently a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University. He earned his B.E. degree from Northwestern Polytechnical University in 2014 and his Ph.D. degree from Shanghai Jiao Tong University in 2020. Prior to joining Nanjing University, he served as a research scientist at the Shenzhen Research Institute of Big Data, Chinese University of Hong Kong (Shenzhen). Additionally, he spent 2.5 years as a senior research scientist at Lightspeed & Quantum Studios, Tencent, where he led the speech group in R&D of speech technologies customized for games.
+Dr. Shuai Wang is currently a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University. He earned his B.E. degree from Northwestern Polytechnical University in 2014 under the supervision of [Prof. Lei Xie](http://lxie.npu-aslp.org/), and his Ph.D. degree from Shanghai Jiao Tong University in 2020 under the supervision of [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) and[Prof. Yanmin Qian](https://audiocc.sjtu.edu.cn/en/members/yanmin.qian). Prior to joining Nanjing University, he served as a research scientist in [Prof. Haizhou Li](https://www.colips.org/~eleliha/)'s team at the Shenzhen Research Institute of Big Data, Chinese University of Hong Kong (Shenzhen), where he still holds an adjunct position now. Additionally, he spent 2.5 years as a senior research scientist at Lightspeed & Quantum Studios, Tencent, where he led the speech group in R&D of speech technologies customized for games.
 
 His research interest includes speaker modeling,target speaker processing,  speech synthesis, voice conversion and music generation. He has published more than 60 papers at top-tier speech conferences/journals. 
 
@@ -31,17 +31,23 @@ I will have several openings for graduate students (2026 Fall), will update deta
 - Target Speaker Processing
 - Speech Generation
 - Music Generation
-- Brain-inspired speech processing (EEG, sEEG ...)
+- Brain-inspired speech processing
 
-## 👩🏻‍🎓 Students
+# 👩🏻‍🎓 Students
 
 Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
 
-- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟计划）.
+- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划）.
 - Zhijun Liu, CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
-- Sho Inoue, CUHK-Shenzhen, Speech Syntesis, Intern @ NetEase and Meta FAIR.
+- Sho Inoue, CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
 - Qibing Bai, CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
 - Wenxuan Wu, CUHK, Target Speech Extraction
+- Wupeng Wang, NUS, Speech Separation
+
+## Past students
+
+- [Junjie Li](https://mrjunjieli.github.io/), currently Ph.D. students at The Hong Kong Polytechnic University
+
 
 
 # 📝 Publications 
@@ -61,6 +67,11 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=vW1Za
 - *2019* VoxSRC 2019:	Rank 1st in both 2 Tracks
 - *2019* DIHARD 2019: Rank 1st in both 4 Tracks
 - *2018* IEEE Ganesh N. Ramaswamy Memorial Student Grant Award
+
+# 🎖 Services
+I serve as a regular reviewer for multiple conferences and journals, including ICASSP, Interspeech, ASRU, SLT, T-ASLP, Computer Speech & Language, Speech Communication; ICML, Neurips, AAAI, ACM MM.
+
+I serve as the Specical Session Chair of APSIPA 2025, the Operation Chair of ICASSP 2025 Suzhou Satellite Event, the Publication Chair of SLT 2024.
 
 
 # 💬 Invited Talks
