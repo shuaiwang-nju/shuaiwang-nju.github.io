@@ -21,7 +21,7 @@ Dr. Shuai Wang is currently a Tenure-Track Associate Professor at the School of 
 
 His research interest includes speaker modeling,target speaker processing,  speech synthesis, voice conversion and music generation. He has published more than 60 papers at top-tier speech conferences/journals. 
 
-<a href='https://scholar.google.com/citations?user=vW1ZaucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- <a href='https://scholar.google.com/citations?user=vW1ZaucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
 # 🔥 Openings
@@ -32,6 +32,8 @@ I will have several openings for graduate students (2026 Fall), will update deta
 - Speech Generation
 - Music Generation
 - Brain-inspired speech processing
+
+> Note that research assistants can choose to work either in Nanjing University @ Suzhou or in Chinese University of Hong Kong (Shenzhen), jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/).
 
 # 👨‍🎓 Students
 
