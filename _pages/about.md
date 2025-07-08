@@ -35,14 +35,56 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 > Note that research assistants can choose to work either in Nanjing University @ Suzhou or in Chinese University of Hong Kong (Shenzhen), jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/).
 
+---
+
+<span class='anchor' id='-recruitment'></span>
+
+## 🎓 **招生信息 / Recruitment Information**
+
+<div class="recruitment-section">
+
+<h3 class="recruitment-title">🔥 2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment</h3>
+
+<p class="recruitment-subtitle">招生方向 / Research Areas:</p>
+<ul class="recruitment-list">
+<li><strong>说话人建模 / Speaker Modeling</strong></li>
+<li><strong>目标说话人处理 / Target Speaker Processing</strong></li>
+<li><strong>语音生成 / Speech Generation</strong></li>
+<li><strong>音乐生成 / Music Generation</strong></li>
+<li><strong>类脑语音处理 / Brain-inspired Speech Processing</strong></li>
+</ul>
+
+<p class="recruitment-subtitle">申请要求 / Requirements:</p>
+<ul class="recruitment-list">
+<li>计算机科学、电子工程或相关专业背景 / Background in Computer Science, Electronic Engineering, or related fields</li>
+<li>对语音处理、机器学习有浓厚兴趣 / Strong interest in speech processing and machine learning</li>
+<li>良好的编程能力（Python/C++） / Good programming skills (Python/C++)</li>
+<li>英语读写能力良好 / Good English reading and writing skills</li>
+</ul>
+
+<p class="recruitment-subtitle">联系方式 / Contact:</p>
+<ul class="recruitment-list">
+<li>邮箱 / Email: <span id="email-display" class="recruitment-email" style="cursor: pointer;" onclick="showEmail()">点击显示邮箱 / Click to show email</span></li>
+<li>请附上简历、成绩单和研究兴趣陈述 / Please include CV, transcripts, and research interest statement</li>
+</ul>
+
+<p class="recruitment-subtitle"><strong>南大智科学生特别说明 / Special Notice for NJU Students:</strong></p>
+<ul class="recruitment-list">
+<li>欢迎大二大三学生进组实习 / Welcome sophomore and junior students for internships</li>
+<li class="office-highlight">南大智科学生可到南雍楼西536办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion</li>
+<li>实习期间可参与实际科研项目 / Interns can participate in actual research projects</li>
+</ul>
+
+</div>
+
 # 👨‍🎓 Students
 
 Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
 
 - Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划）.
-- Zhijun Liu, CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
-- Sho Inoue, CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
-- Qibing Bai, CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
+- [Zhijun Liu](https://zjlww.github.io/), CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
+- [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/), CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
+- [Qibing Bai](https://p1ping.github.io/), CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
 - Wenxuan Wu, CUHK, Target Speech Extraction
 - Wupeng Wang, NUS, Speech Separation
 
