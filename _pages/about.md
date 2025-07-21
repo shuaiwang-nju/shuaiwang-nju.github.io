@@ -46,7 +46,10 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 <!-- Video Section -->
 <div class="video-container" style="text-align: center; margin: 20px 0;">
-  <video width="100%" max-width="800px" controls style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px; font-style: italic;">
+    🎵 基于我们论文 <a href="https://arxiv.org/abs/2506.07634" target="_blank" style="color: #007acc; text-decoration: none;">SongBloom</a> 生成的招生欢迎演示 / Welcome demo generated using our <a href="https://arxiv.org/abs/2506.07634" target="_blank" style="color: #007acc; text-decoration: none;">SongBloom</a> paper
+  </p>
+  <video width="50%" max-width="500px" controls style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <source src="{{ site.baseurl }}/images/zhike_song.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
