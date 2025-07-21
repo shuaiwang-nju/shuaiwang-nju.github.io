@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
+
 
 Dr. Shuai Wang is currently a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University. He earned his B.E. degree from Northwestern Polytechnical University in 2014 under the supervision of [Prof. Lei Xie](http://lxie.npu-aslp.org/), and his Ph.D. degree from Shanghai Jiao Tong University in 2020 under the supervision of [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) and [Prof. Yanmin Qian](https://audiocc.sjtu.edu.cn/en/members/yanmin.qian). Prior to joining Nanjing University, he served as a research scientist in [Prof. Haizhou Li](https://www.colips.org/~eleliha/)'s team at the Shenzhen Research Institute of Big Data, Chinese University of Hong Kong (Shenzhen), where he still holds an adjunct position now. Additionally, he spent 2.5 years as a senior research scientist at Lightspeed & Quantum Studios, Tencent, where he led the speech group in R&D of speech technologies customized for games.
 
@@ -40,6 +41,16 @@ I will have several openings for graduate students (2026 Fall), will update deta
 <span class='anchor' id='-recruitment'></span>
 
 ## 🎓 **招生信息 / Recruitment Information**
+
+
+
+<!-- Video Section -->
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <video width="100%" max-width="800px" controls style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <source src="{{ site.baseurl }}/images/zhike_song.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <div class="recruitment-section">
 
