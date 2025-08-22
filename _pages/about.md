@@ -114,9 +114,12 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=vW1Za
 
 # 🪜 Open-Source Projects
 
-- [WeSpeaker](https://github.com/wenet-e2e/wespeaker): Speaker Embedding Learning
-- [WeSep](https://github.com/wenet-e2e/wesep): Target Speaker Extraction.
-- [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm): Diffusion-based Rhythmic Music Generation.
+- [WeSpeaker](https://github.com/wenet-e2e/wespeaker): A comprehensive speaker embedding learning toolkit, supporting industrial-scale speaker embedding learning.
+- [WeSep](https://github.com/wenet-e2e/wesep): The first open-source target speaker extraction toolkit
+- [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm): Diffusion-based Rhythmic Music Generation, Fast, Fast, Fast!
+- [SongBloom](https://github.com/Cypress-Yang/SongBloom): Autoregressive Diffusion-based Music Generation, High-Quality, High-Fidelity, High-Diversity!
+- [Real-T](https://real-tse.github.io/): A real-world, conversation-centric benchmark for Target Speaker Extraction (TSE)
+
 
 
 # 🎖 Honors and Awards
@@ -136,4 +139,6 @@ I serve as the Specical Session Chair of APSIPA 2025, the Operation Chair of ICA
 
 # 💬 Invited Talks
 - *2024.09*, [Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/) at Brno University of Technology. [\[video\]](https://www.youtube.com/live/FMY5_smgrYY)
+- *2025.08*, [One Embedding Doesn’t Fit All
+Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm), at MLC Workshop, Interspeech 2025. [[slides]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
 
