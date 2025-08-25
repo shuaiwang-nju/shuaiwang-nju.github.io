@@ -91,9 +91,11 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 </div>
 
+<span class='anchor' id='-teaching'></span>
+
 # 📚 Teaching
 
-- [Intelligent Speech Technology, 2025 Fall](/teaching/ist2025/)
+- [Intelligent Speech Technology, 2025 Fall](/ist2025/)
 
 ---
 
