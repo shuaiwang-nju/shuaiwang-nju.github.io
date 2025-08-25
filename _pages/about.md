@@ -91,6 +91,12 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 </div>
 
+# 📚 Teaching
+
+- [Intelligent Speech Technology, 2025 Fall](/teaching/ist2025/)
+
+---
+
 # 👨‍🎓 Students
 
 Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)

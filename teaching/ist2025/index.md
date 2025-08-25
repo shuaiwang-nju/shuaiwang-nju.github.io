@@ -11,14 +11,14 @@ permalink: /teaching/ist2025/
 
 **Semester:** Fall 2025  
 **Credits:** 2  
-**Class Hours:** 36 (18*2)  
+**Class Hours:** 36 (18×2)  
 **Instructor:** [Shuai Wang](/)  
 **Location:** Nanyong Building, Room West 209  
 **Time:** Monday 2:00 - 3:50pm
 
 ## Course Description
 
-As the most natural form of human communication, intelligent speech technology has given machines the ability to "understand" and "speak" From the emergence of Siri voice assistants to the widespread adoption of smart home and in-car voice systems, and breakthrough developments in multimodal large models like GPT-4o, this technology is profoundly transforming our way of life.
+As the most natural form of human communication, intelligent speech technology has given machines the ability to "understand" and "speak". From the emergence of Siri voice assistants to the widespread adoption of smart home and in-car voice systems, and breakthrough developments in multimodal large models like GPT-4o, this technology is profoundly transforming our way of life.
 
 This course will systematically explore the core principles and cutting-edge applications of intelligent speech technology. We will begin with human speech production mechanisms and auditory systems, then delve into traditional technologies including speech recognition, voiceprint modeling, speech synthesis, voice conversion and speech separation, while also examining new developments in speech technology in the era of large language models. The course follows a teaching approach that combines theory with practice, helping students master both theoretical foundations and practical application skills through hands-on projects.
 
@@ -27,8 +27,11 @@ This course will systematically explore the core principles and cutting-edge app
 By the end of this course, students will be able to:
 
 - Understand the fundamental principles of speech signal processing
+- Master key technologies in speech recognition, synthesis, and enhancement
 - Apply machine learning techniques to speech processing tasks
+- Implement practical speech processing applications
 - Critically evaluate research papers in the field
+- Understand the latest developments in speech technology
 
 ## Prerequisites
 
@@ -43,7 +46,7 @@ By the end of this course, students will be able to:
 |------|------|-------|-----------|-------------|
 | 1 | 2025.8.25 | Course Introduction & Overview of Speech Technology | [Slides](#) | - |
 | 2 | 2025.9.1 | Overview of Speech Technology (continue) | [Slides](#) | - |
-| 3 | 2025.9.8  | Speech Signal Processing Fundamentals | [Slides](#) | - |
+---
 
 
 ## Course Materials
@@ -55,17 +58,15 @@ By the end of this course, students will be able to:
 - [4] 韩纪庆、张磊、郑铁然，《语音信号处理》，清华大学出版社
 - [5] 洪青阳，李琳著，《语音识别：原理与应用》，电子工业出版社
 
-
 ### Recommended Readings
 Recent papers from top conferences (ICASSP, Interspeech, ACL, etc.)
 
-
 ### Software & Tools
-- Python 3.8+
-- PyTorch or TensorFlow
-- Librosa for audio processing
-- WeNet/WeSpeaker/WeSep
-- ESPNet/SpeechBrain/Kaldi
+- **Python 3.8+** - Primary programming language
+- **PyTorch/TensorFlow** - Deep learning frameworks
+- **Librosa** - Audio processing library
+- **WeNet/WeSpeaker/WeSep** - Open-source speech processing toolkits
+- **ESPNet/SpeechBrain/Kaldi** - Additional speech processing frameworks
 
 ## Grading Policy
 
@@ -76,15 +77,21 @@ Recent papers from top conferences (ICASSP, Interspeech, ACL, etc.)
 ## Assignments
 
 ### Homework 1: TBD
-
+**Due:** Week 7  
+**Description:** TBD
 
 ### Homework 2: TBD
-
+**Due:** Week 10  
+**Description:** TBD
 
 ### Final Project: TBD
+**Due:** Week 18  
+**Description:** TBD
 
 
 
 ---
 
-*This syllabus is subject to change. Students will be notified of any modifications.*
+<div style="text-align: center; color: #7f8c8d; font-style: italic; margin-top: 3rem;">
+  *This syllabus is subject to change. Students will be notified of any modifications.*
+</div>

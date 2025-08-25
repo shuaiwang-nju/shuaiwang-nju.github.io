@@ -9,11 +9,8 @@ main:
   - title: "Openings"
     url: "/#-openings"
 
-  # - title: "Students"
-  #    url:"/#-students"
-
   - title: "Teaching"
-    url: "/teaching/"
+    url: "/#-teaching"
 
   - title: "Publications"
     url: "/#-publications"
