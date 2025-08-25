@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Intelligent Speech Technology"
-permalink: /teaching/ipt2025/
+permalink: /teaching/ist2025/
 ---
 
 # Intelligent Speech Technology
