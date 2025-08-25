@@ -1,0 +1,90 @@
+---
+layout: page
+title: "Intelligent Speech Technology"
+permalink: /teaching/ipt2025/
+---
+
+# Intelligent Speech Technology
+**Fall 2025**
+
+## Course Information
+
+**Semester:** Fall 2025  
+**Credits:** 2  
+**Class Hours:** 36 (18*2)  
+**Instructor:** [Shuai Wang](/)  
+**Location:** Nanyong Building, Room West 209  
+**Time:** Monday 2:00 - 3:50pm
+
+## Course Description
+
+As the most natural form of human communication, intelligent speech technology has given machines the ability to "understand" and "speak" From the emergence of Siri voice assistants to the widespread adoption of smart home and in-car voice systems, and breakthrough developments in multimodal large models like GPT-4o, this technology is profoundly transforming our way of life.
+
+This course will systematically explore the core principles and cutting-edge applications of intelligent speech technology. We will begin with human speech production mechanisms and auditory systems, then delve into traditional technologies including speech recognition, voiceprint modeling, speech synthesis, voice conversion and speech separation, while also examining new developments in speech technology in the era of large language models. The course follows a teaching approach that combines theory with practice, helping students master both theoretical foundations and practical application skills through hands-on projects.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+- Understand the fundamental principles of speech signal processing
+- Apply machine learning techniques to speech processing tasks
+- Critically evaluate research papers in the field
+
+## Prerequisites
+
+- Basic knowledge of linear algebra and calculus
+- Programming experience in Python
+- Familiarity with machine learning concepts
+- Basic knowledge of Deep Learning and tools (PyTorch, TensorFlow, etc.)
+
+## Course Schedule
+
+| Week | Date | Topic | Materials | Assignments |
+|------|------|-------|-----------|-------------|
+| 1 | 2025.8.25 | Course Introduction & Overview of Speech Technology | [Slides](#) | - |
+| 2 | 2025.9.1 | Overview of Speech Technology (continue) | [Slides](#) | - |
+| 3 | 2025.9.8  | Speech Signal Processing Fundamentals | [Slides](#) | - |
+
+
+## Course Materials
+
+### Recommended Textbooks
+- [1] Jurafsky D, Martin J H. Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition with language models. 2025 Edition.
+- [2] https://speechprocessingbook.aalto.fi/index.html
+- [3] Xuedong Huang, Alex Aceoro, Hsiao-Wuen Hon, Spoken Language Processing: A guide to theory, algorithm, and system development, Prentice Hall, 2011
+- [4] 韩纪庆、张磊、郑铁然，《语音信号处理》，清华大学出版社
+- [5] 洪青阳，李琳著，《语音识别：原理与应用》，电子工业出版社
+
+
+### Recommended Readings
+Recent papers from top conferences (ICASSP, Interspeech, ACL, etc.)
+
+
+### Software & Tools
+- Python 3.8+
+- PyTorch or TensorFlow
+- Librosa for audio processing
+- WeNet/WeSpeaker/WeSep
+- ESPNet/SpeechBrain/Kaldi
+
+## Grading Policy
+
+- **Attendance:** 15% (From 4th week to 18th week)
+- **Homework Assignments:** 20% (2 assignments)
+- **Final Project:** 65% (1 project)
+
+## Assignments
+
+### Homework 1: TBD
+
+
+### Homework 2: TBD
+
+
+### Final Project: TBD
+
+
+
+---
+
+*This syllabus is subject to change. Students will be notified of any modifications.*
