@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能语音技术 - 课程演示视频</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .demo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .demo-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .demo-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        
+        .demo-card h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .demo-card p {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        
+        .video-container {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            margin-bottom: 15px;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 10px;
+        }
+        
+        .video-link {
+            display: inline-block;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            text-decoration: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .video-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+        
+        .back-link {
+            text-align: center;
+            margin-top: 40px;
+        }
+        
+        .back-link a {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 30px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        .back-link a:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-2px);
+        }
+        
+        .course-info {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            color: white;
+            text-align: center;
+        }
+        
+        .course-info h2 {
+            margin-bottom: 10px;
+            font-size: 1.8em;
+        }
+        
+        .course-info p {
+            margin: 0;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎤 智能语音技术</h1>
+            <p>课程演示视频 - 第一课：语音技术概述</p>
+        </div>
+        
+        <div class="course-info">
+            <h2>Intelligent Speech Technology</h2>
+            <p>Fall 2025 | 南京大学 | 王帅老师</p>
+        </div>
+        
+        <div class="demo-grid">
+            <div class="demo-card">
+                <h3>🗣️ 发音机理</h3>
+                <p>了解人类语音产生的生理机制，包括声带振动、声道调节等关键过程。这个视频将帮助您理解语音信号是如何从我们的发声器官产生的。</p>
+                <div class="video-container">
+                    <iframe src="https://player.bilibili.com/player.html?bvid=BV1qV411A7KW&autoplay=0" 
+                            title="发音机理演示" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>
+                </div>
+                <a href="https://www.bilibili.com/video/BV1qV411A7KW/" target="_blank" class="video-link">
+                    📺 在B站中观看
+                </a>
+            </div>
+            
+            <div class="demo-card">
+                <h3>👂 听觉机制</h3>
+                <p>探索人类听觉系统的工作原理，包括声音的接收、传导和感知过程。了解我们是如何听到和理解语音信号的。</p>
+                <div class="video-container">
+                    <iframe src="https://player.bilibili.com/player.html?bvid=BV1Cg4y1z7mn&autoplay=0" 
+                            title="听觉机制演示" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>
+                </div>
+                <a href="https://www.bilibili.com/video/BV1Cg4y1z7mn" target="_blank" class="video-link">
+                    📺 在B站中观看
+                </a>
+            </div>
+            
+            <div class="demo-card">
+                <h3>🤖 语音对话系统</h3>
+                <p>李开复博士展示的早期语音对话系统，展示了语音识别和自然语言处理技术的结合应用。这是语音技术发展史上的重要里程碑。</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/PJ_KCTsOCrs" 
+                            title="语音对话系统演示" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>
+                </div>
+                <a href="https://www.youtube.com/watch?v=PJ_KCTsOCrs" target="_blank" class="video-link">
+                    📺 在YouTube中观看
+                </a>
+            </div>
+            
+            <div class="demo-card">
+                <h3>🔊 拼接合成示例</h3>
+                <p>展示语音合成中的拼接合成技术，通过拼接预录制的语音片段来生成自然流畅的语音。鬼畜可以看做是某种拼接合成（经过了调音处理）。</p>
+                <div class="video-container">
+                    <iframe src="https://player.bilibili.com/player.html?bvid=BV1bW411n7fY&autoplay=0" 
+                            title="拼接合成示例演示" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>
+                </div>
+                <a href="http://bilibili.com/video/BV1bW411n7fY" target="_blank" class="video-link">
+                    📺 在B站中观看
+                </a>
+            </div>
+        </div>
+        
+        <div class="back-link">
+            <a href="/teaching/ist2025/">← 返回课程主页</a>
+        </div>
+    </div>
+</body>
+</html>
