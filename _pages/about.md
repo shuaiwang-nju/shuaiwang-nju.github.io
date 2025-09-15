@@ -123,7 +123,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=vW1Za
 # 🪜 Open-Source Projects
 
 - [WeSpeaker](https://github.com/wenet-e2e/wespeaker): A comprehensive speaker embedding learning toolkit, supporting industrial-scale speaker embedding learning.
-- [WeSep](https://github.com/wenet-e2e/wesep): The first open-source target speaker extraction toolkit
+- [WeSep](https://github.com/wenet-e2e/wesep): The first open-source target speaker extraction toolkit [[Demo]](/research/demos/wesep_demo.html)
 - [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm): Diffusion-based Rhythmic Music Generation, Fast, Fast, Fast!
 - [SongBloom](https://github.com/Cypress-Yang/SongBloom): Autoregressive Diffusion-based Music Generation, High-Quality, High-Fidelity, High-Diversity!
 - [Real-T](https://real-tse.github.io/): A real-world, conversation-centric benchmark for Target Speaker Extraction (TSE)
