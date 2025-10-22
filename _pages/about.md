@@ -148,7 +148,8 @@ I serve as the Specical Session Chair of APSIPA 2025, the Operation Chair of ICA
 
 # 💬 Invited Talks
 - *2024.09*, [Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/) at Brno University of Technology. [\[video\]](https://www.youtube.com/live/FMY5_smgrYY)
-- *2025.08*, [One Embedding Doesn’t Fit All
+- *2025.08*, [One Embedding Doesn't Fit All
 Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm), at MLC Workshop, Interspeech 2025. [[slides]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
 - *2025.08*, [The Real-T Dataset](REAL-T: Real Conversational Mixtures for Target Speaker Extraction), at Interspeech 2025. [[slides]]({{ site.baseurl }}/assets/slides/talk_real-t_is25.pdf)
+- *2025.12*, Deep Speaker Representation Learning, Tutorial, at APSIPA 2025. [[slides]]({{ site.baseurl }}/assets/slides/apsipa25_tutorial.pdf)
 
