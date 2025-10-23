@@ -151,6 +151,6 @@ I serve as the Specical Session Chair of APSIPA 2025, the Operation Chair of ICA
 - *2025.08*, [One Embedding Doesn't Fit All
 Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm), at MLC Workshop, Interspeech 2025. [[slides]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
 - *2025.08*, [The Real-T Dataset](REAL-T: Real Conversational Mixtures for Target Speaker Extraction), at Interspeech 2025. [[slides]]({{ site.baseurl }}/assets/slides/talk_real-t_is25.pdf)
-- *2025.10*, NCMMSC Tutorial, at NCMMSC 2025. [[slides]]({{ site.baseurl }}/assets/slides/NC25_tutorial.pdf)
-- *2025.10*, Deep Speaker Representation Learning, Tutorial, at APSIPA 2025. [[slides]]({{ site.baseurl }}/assets/slides/apsipa25_tutorial.pdf)
+- *2025.10*, Deep Speaker Representation Learning, Tutorial, at NCMMSC 2025. [[slides in Chinese]]({{ site.baseurl }}/assets/slides/NC25_tutorial.pdf)
+- *2025.10*, Deep Speaker Representation Learning, Tutorial, at APSIPA 2025. [[slides in English]]({{ site.baseurl }}/assets/slides/apsipa25_tutorial.pdf)
 
