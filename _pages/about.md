@@ -95,7 +95,7 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 # 📚 Teaching
 
-- [Intelligent Speech Technology, 2025 Fall](/teaching/ist2025/)
+- [Intelligent Speech Technology, 2025 Fall](/teaching/ist25fall.html)
 
 ---
 
