@@ -26,15 +26,14 @@ His research interest includes speaker modeling,target speaker processing,  spee
 
 
 # 🔥 Openings
-I will have several openings for graduate students (2026 Fall), will update details ASAP. I am currently looking for research assistants, please feel free to drop me an email with your CV if you are interested in the following topics:
+I will have several openings for graduate students (2027 Fall), will update details ASAP. I am currently looking for research assistants, please feel free to drop me an email with your CV if you are interested in the following topics:
 
 - Speaker Modeling
 - Target Speaker Processing
-- Speech Generation
-- Music Generation
+- Speech, Audio, and Music Understanding
+- Speech, Audio, and Music Generation
 - Brain-inspired speech processing
-
-> Note that research assistants can choose to work either in Nanjing University @ Suzhou or in Chinese University of Hong Kong (Shenzhen), jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/).
+- End-to-End Speech Large Language Models
 
 ---
 
@@ -57,15 +56,16 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 <div class="recruitment-section">
 
-<h3 class="recruitment-title">🔥 2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment</h3>
+<h3 class="recruitment-title">🔥 2027级硕士、博士研究生招生 / 2027 Fall Graduate Student Recruitment (Master & Ph.D.)</h3>
 
 <p class="recruitment-subtitle">招生方向 / Research Areas:</p>
 <ul class="recruitment-list">
 <li><strong>说话人建模 / Speaker Modeling</strong></li>
 <li><strong>目标说话人处理 / Target Speaker Processing</strong></li>
-<li><strong>语音生成 / Speech Generation</strong></li>
-<li><strong>音乐生成 / Music Generation</strong></li>
+<li><strong>语音、音频、音乐理解 / Speech, Audio, and Music Understanding</strong></li>
+<li><strong>语音、音频、音乐生成 / Speech, Audio, and Music Generation</strong></li>
 <li><strong>类脑语音处理 / Brain-inspired Speech Processing</strong></li>
+<li><strong>端到端语音大模型 / End-to-End Speech Large Language Models</strong></li>
 </ul>
 
 <p class="recruitment-subtitle">申请要求 / Requirements:</p>
@@ -89,6 +89,27 @@ I will have several openings for graduate students (2026 Fall), will update deta
 <li>实习期间可参与实际科研项目 / Interns can participate in actual research projects</li>
 </ul>
 
+<p class="recruitment-subtitle"><strong>🔬 Research Assistant (RA) 招聘 / Research Assistant Recruitment:</strong></p>
+<ul class="recruitment-list">
+<li><strong>常年招收 / Year-round Recruitment:</strong> 欢迎本科生、研究生申请Research Assistant职位 / Welcome undergraduate and graduate students to apply for Research Assistant positions</li>
+<li><strong>工作地点选择 / Location Options:</strong>
+  <ul style="margin-top: 10px; margin-left: 20px;">
+    <li>南京大学苏州校区 / Nanjing University @ Suzhou</li>
+    <li>深圳河套学院 / Shenzhen-Hong Kong Hetao Institute</li>
+    <li>香港中文大学（深圳） / Chinese University of Hong Kong (Shenzhen)</li>
+    <li>远程工作 / Remote work</li>
+  </ul>
+</li>
+<li><strong>发展机会 / Opportunities:</strong>
+  <ul style="margin-top: 10px; margin-left: 20px;">
+    <li>表现优秀者可推荐大厂实习 / Outstanding performers can be recommended for internships at leading tech companies</li>
+    <li>可推荐到知名高校深造 / Can be recommended for further studies at prestigious universities</li>
+    <li>参与前沿科研项目 / Participate in cutting-edge research projects</li>
+    <li>与Prof. Haizhou Li联合指导 / Jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)</li>
+  </ul>
+</li>
+</ul>
+
 </div>
 
 <span class='anchor' id='-teaching'></span>
@@ -103,12 +124,12 @@ I will have several openings for graduate students (2026 Fall), will update deta
 
 Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
 
-- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划）.
+- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划） and Microsoft Asia.
 - [Zhijun Liu](https://zjlww.github.io/), CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
 - [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/), CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
 - [Qibing Bai](https://p1ping.github.io/), CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
 - Wenxuan Wu, CUHK, Target Speech Extraction
-- Wupeng Wang, NUS, Speech Separation
+- Wupeng Wang, NUS, Speech Separation, (Graduated, now at Alibaba)
 
 ## Past students
 
