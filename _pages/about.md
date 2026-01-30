@@ -95,7 +95,7 @@ I will have several openings for graduate students (2027 Fall), will update deta
 <li><strong>工作地点选择 / Location Options:</strong>
   <ul style="margin-top: 10px; margin-left: 20px;">
     <li>南京大学苏州校区 / Nanjing University @ Suzhou</li>
-    <li>深圳河套学院 / Shenzhen-Hong Kong Hetao Institute</li>
+    <li>深圳河套学院 / Shenzhen Loop Area Institute</li>
     <li>香港中文大学（深圳） / Chinese University of Hong Kong (Shenzhen)</li>
     <li>远程工作 / Remote work</li>
   </ul>
@@ -105,7 +105,7 @@ I will have several openings for graduate students (2027 Fall), will update deta
     <li>表现优秀者可推荐大厂实习 / Outstanding performers can be recommended for internships at leading tech companies</li>
     <li>可推荐到知名高校深造 / Can be recommended for further studies at prestigious universities</li>
     <li>参与前沿科研项目 / Participate in cutting-edge research projects</li>
-    <li>与Prof. Haizhou Li联合指导 / Jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)</li>
+    <li>与Prof. Haizhou Li联合指导 / Jointly supervised with Prof. <a href="https://www.colips.org/~eleliha/">Haizhou Li</a></li>
   </ul>
 </li>
 </ul>
