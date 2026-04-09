@@ -26,7 +26,7 @@ His research interest includes speaker modeling,target speaker processing,  spee
 
 
 # 🔥 Openings
-I will have several openings for graduate students (2027 Fall), will update details ASAP. I am currently looking for research assistants, please feel free to drop me an email with your CV if you are interested in the following topics:
+<p class="openings-emphasis">I will have several openings for graduate students (2027 Fall), will update details ASAP. I am currently looking for research assistants, please feel free to drop me an email with your CV if you are interested in the following topics:</p>
 
 - Speaker Modeling
 - Target Speaker Processing
@@ -120,13 +120,22 @@ I will have several openings for graduate students (2027 Fall), will update deta
 
 ---
 
+<span class='anchor' id='-students'></span>
+
 # 👨‍🎓 Students
 
-Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
+## Students at Nanjing University
+- [Haoyu Li](https://scholar.google.com/citations?user=ox4ykukAAAAJ&hl=en), Ph.D. student, Speaker-Centered Understanding. 2026 Fall. Intern at Alibaba and Huawei.
+- [Qituan Shangguan](), Master Student, Speaker Recognition, 2026 Fall. Intern at Soul AI Lab.
+- [Ziyi Chen](), Ph.D. Student, Speaker Diarization, 2026 Fall. Intern at Huawei.
+- [Ye Tao](), Master Student, Audio-Visual Speech and Audio Generation, 2026 Fall.
+- [Shengfan Shen](), Master Student, Speech Synthesis, 2026 Fall. Intern at Xiaomi.
 
-- Chenyu Yang, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划） and Microsoft Asia.
-- [Zhijun Liu](https://zjlww.github.io/), CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
-- [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/), CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
+## Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
+
+- Chenyu Yang, 2024 Fall, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划） and Microsoft Asia.
+- [Zhijun Liu](https://zjlww.github.io/), 2023 Fall, CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
+- [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/), 2022 Fall,CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
 - [Qibing Bai](https://p1ping.github.io/), CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
 - Wenxuan Wu, CUHK, Target Speech Extraction
 - Wupeng Wang, NUS, Speech Separation, (Graduated, now at Alibaba)
@@ -134,6 +143,7 @@ Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org
 ## Past students
 
 - [Junjie Li](https://mrjunjieli.github.io/), currently Ph.D. student at The Hong Kong Polytechnic University
+- Shaole Li (currently Ph.D. student at The Hong Kong Polytechnic University)
 
 
 
