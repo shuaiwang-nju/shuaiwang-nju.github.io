@@ -127,12 +127,12 @@ His research interest includes speaker modeling,target speaker processing,  spee
 # 👨‍🎓 Students
 
 ## Students at Nanjing University
-- [Haoyu Li](https://scholar.google.com/citations?user=ox4ykukAAAAJ&hl=en), Ph.D. student, Speaker-Centered Understanding. 2026 Fall. Intern at Alibaba and Huawei.
-- [Qituan Shangguan](), Master Student, Speaker Recognition, 2026 Fall. Intern at Soul AI Lab.
-- [Ziyi Chen](), Ph.D. Student, Speaker Diarization, 2026 Fall. Intern at Huawei.
-- [Ye Tao](), Master Student, Audio-Visual Speech and Audio Generation, 2026 Fall.
-- [Shengfan Shen](), Master Student, Speech Synthesis, 2026 Fall. Intern at Xiaomi.
-- [Zihan Qian](), Undergraduate Student, Intern at Tencent.
+- [Haoyu Li](https://gnafiy.github.io/academic-research/), Ph.D. student, Speaker-Centered Understanding. 2026 Fall. Intern at Alibaba and Huawei.
+- [Ziyi Chen](https://chenziyi-orange.github.io/), Ph.D. Student, Speaker Diarization, 2026 Fall. Intern at Huawei.
+- [Qituan Shangguan](https://shangguanqituan.github.io/), Master Student, Speaker Recognition, 2026 Fall. Intern at Soul AI Lab.
+- [Ye Tao](https://ty0402.github.io/), Master Student, Audio-Visual Speech and Audio Generation, 2026 Fall.
+- [Shengfan Shen](https://ssf-1103.github.io/), Master Student, Speech Synthesis, 2026 Fall. Intern at Xiaomi.
+- Zihan Qian, Undergraduate Student, Intern at Tencent.
 
 ## Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
 
