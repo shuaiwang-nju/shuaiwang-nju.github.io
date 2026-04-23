@@ -12,9 +12,8 @@ author_profile: true
 
 研究方向包括说话人建模、目标说话人处理、语音合成、语音转换与音乐生成等，在语音领域顶级会议/期刊发表论文60余篇。
 
-<span class='anchor' id='-openings'></span>
-
 # 🔥 招生课题
+{: id="-openings"}
 
 <p class="openings-emphasis">本人正在招收2027年秋季入学的研究生（含博士与硕士），以及科研助理；若你对以下方向感兴趣，欢迎附简历发邮件联系：</p>
 
@@ -101,17 +100,15 @@ author_profile: true
 
 </div>
 
-<span class='anchor' id='-teaching'></span>
-
 # 📚 教学
+{: id="-teaching"}
 
 - [智能语音技术，2025 秋季](/teaching/ist25fall.html)
 
 ---
 
-<span class='anchor' id='-students'></span>
-
 # 👨‍🎓 学生
+{: id="-students"}
 
 ## 南京大学
 - [Haoyu Li](https://gnafiy.github.io/academic-research/)，博士生，以说话人为中心的理解，2026 秋入学。阿里巴巴、华为实习。
@@ -139,9 +136,8 @@ author_profile: true
 - [Junjie Li](https://mrjunjieli.github.io/)，现为香港理工大学博士生。
 - Shaole Li（现为香港理工大学博士生）。
 
-<span class='anchor' id='-publications'></span>
-
 # 📝 论文
+{: id="-publications"}
 
 最新论文请见 [Google Scholar](https://scholar.google.com/citations?user=vW1ZaucAAAAJ)。
 
@@ -154,25 +150,22 @@ author_profile: true
 - [Real-T](https://real-tse.github.io/)：面向目标说话人提取的真实对话场景基准数据集。
 - [MSU-Bench](https://aslp-lab.github.io/msu-bench.github.io/)：面向大语音语言模型评测的多层次、多说话人、多语言、多场景、多任务基准。
 
-<span class='anchor' id='-honors-and-awards'></span>
-
 # 🎖 荣誉与奖励
+{: id="-honors-and-awards"}
 - *2024* ISCSLP 2024 最佳论文奖
 - *2024* ISCSLP 2024 最佳学生论文奖
 - *2019* VoxSRC 2019：两个赛道均第 1 名
 - *2019* DIHARD 2019：四个赛道均第 1 名
 - *2018* IEEE Ganesh N. Ramaswamy Memorial Student Grant
 
-<span class='anchor' id='-services'></span>
-
 # 🌅 学术服务
+{: id="-services"}
 担任多个会议与期刊的常规审稿人，包括 ICASSP、Interspeech、ASRU、SLT、T-ASLP、Computer Speech & Language、Speech Communication；以及 ICML、Neurips、AAAI、ACM MM 等。
 
 曾任 APSIPA 2025 Special Session Chair、ICASSP 2025 苏州卫星会 Operation Chair、SLT 2024 Publication Chair。
 
-<span class='anchor' id='-invited-talks'></span>
-
 # 💬 邀请报告
+{: id="-invited-talks"}
 - *2024.09*，[Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/)，布尔诺理工大学。[\[视频\]](https://www.youtube.com/live/FMY5_smgrYY)
 - *2025.08*，[One Embedding Doesn't Fit All — Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm)，Interspeech 2025 MLC Workshop。[[幻灯片]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
 - *2025.08*，The Real-T Dataset（面向目标说话人提取的真实对话混合数据），Interspeech 2025。[[幻灯片]]({{ site.baseurl }}/assets/slides/talk_real-t_is25.pdf)
