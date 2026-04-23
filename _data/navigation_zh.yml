@@ -1,8 +1,5 @@
 # 中文版主导航（锚点与英文版一致，便于对应）
 main:
-  - title: "简介"
-    url: "/zh/#about-me"
-
   - title: "招生课题"
     url: "/zh/#-openings"
 

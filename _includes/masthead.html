@@ -2,10 +2,14 @@
   {% assign masthead_nav = site.data.navigation_zh.main %}
   {% assign masthead_home = site.baseurl | append: "/zh/#about-me" %}
   {% assign masthead_home_title = "首页" %}
+  {% assign masthead_lang_url = site.baseurl | append: "/" %}
+  {% assign masthead_lang_title = "EN" %}
 {% else %}
   {% assign masthead_nav = site.data.navigation.main %}
   {% assign masthead_home = site.baseurl | append: "/#about-me" %}
   {% assign masthead_home_title = "Homepage" %}
+  {% assign masthead_lang_url = site.baseurl | append: "/zh/" %}
+  {% assign masthead_lang_title = "中文" %}
 {% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -17,13 +21,7 @@
           {% for link in masthead_nav %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-lang" aria-label="Language">
-            {% if page.lang == 'zh' %}
-              <a href="{{ site.baseurl }}/" class="lang-switcher__link lang-switcher__link--active">EN</a><span class="lang-switcher__sep" aria-hidden="true">·</span><span class="lang-switcher__muted">中文</span>
-            {% else %}
-              <span class="lang-switcher__muted">EN</span><span class="lang-switcher__sep" aria-hidden="true">·</span><a href="{{ site.baseurl }}/zh/" class="lang-switcher__link">中文</a>
-            {% endif %}
-          </li>
+          <li class="masthead__menu-item"><a href="{{ masthead_lang_url }}">{{ masthead_lang_title }}</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
