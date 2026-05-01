@@ -1,6 +1,6 @@
 # 中文版主导航（锚点与英文版一致，便于对应）
 main:
-  - title: "招生课题"
+  - title: "研究方向"
     url: "/zh/#-openings"
 
   - title: "招生信息"
@@ -15,8 +15,8 @@ main:
   - title: "论文"
     url: "/zh/#-publications"
 
-  - title: "荣誉奖励"
+  - title: "荣誉与奖励"
     url: "/zh/#-honors-and-awards"
 
-  - title: "学术报告"
+  - title: "邀请报告"
     url: "/zh/#-invited-talks"

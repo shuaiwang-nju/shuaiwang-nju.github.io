@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuai Wang"
-  avatar           : "images/shuai.jpg"
+  avatar           : "/images/shuai.jpg"
   bio              : "Nanjing University"
   location         : "Suzhou, China"
   employer         :
@@ -67,6 +67,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - vendor/bundle
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

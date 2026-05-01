@@ -1,13 +1,13 @@
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="manifest" href="images/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
 
 <meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="msapplication-TileImage" content="{{ '/images/mstile-144x144.png?v=M44lzPylqQ' | relative_url }}">
+<meta name="msapplication-config" content="{{ '/images/browserconfig.xml?v=M44lzPylqQ' | relative_url }}">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
@@ -20,126 +20,94 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- Custom styles for recruitment section -->
+<!-- Custom styles -->
 <style>
-.recruitment-section {
-  background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
-  border: 3px solid #ff6b6b;
-  border-radius: 12px;
-  padding: 25px;
-  margin: 25px 0;
-  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.15);
-  position: relative;
-  overflow: hidden;
+html[lang="zh"] body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", Helvetica, Arial, sans-serif;
+  line-height: 1.75;
 }
 
-.recruitment-section::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #ff6b6b, #ff8e8e, #ff6b6b);
+.recruitment-section {
+  background: #f8fafc;
+  border: 1px solid #d7dee5;
+  border-radius: 10px;
+  padding: 20px 22px;
+  margin: 18px 0 24px;
 }
 
 .recruitment-title {
-  color: #d32f2f !important;
-  font-weight: bold !important;
-  font-size: 1.3em !important;
-  text-align: center;
-  margin-bottom: 20px;
-  text-shadow: 1px 1px 2px rgba(211, 47, 47, 0.1);
+  color: #1f2937 !important;
+  font-weight: 700 !important;
+  font-size: 1.2em !important;
+  margin-bottom: 14px;
 }
 
 .recruitment-subtitle {
-  color: #d32f2f !important;
-  font-weight: bold !important;
-  font-size: 1.1em !important;
-  margin-top: 15px;
-  margin-bottom: 8px;
+  color: #374151 !important;
+  font-weight: 700 !important;
+  font-size: 1.05em !important;
+  margin-top: 14px;
+  margin-bottom: 6px;
 }
 
 .recruitment-text {
-  color: #d32f2f !important;
+  color: #374151 !important;
   font-weight: 500 !important;
 }
 
-/* Openings lead paragraph – red emphasis above topic list */
 .openings-emphasis {
-  color: #c62828 !important;
+  color: #374151 !important;
   font-weight: 600 !important;
-  line-height: 1.65;
+  line-height: 1.7;
   margin: 0.5em 0 1em;
 }
 
 .recruitment-list {
-  margin-left: 20px;
+  margin-left: 18px;
 }
 
 .recruitment-list li {
-  color: #d32f2f !important;
-  font-weight: 500 !important;
-  margin-bottom: 8px;
+  color: #374151 !important;
+  margin-bottom: 6px;
 }
 
 .recruitment-email {
-  color: #d32f2f !important;
-  font-weight: bold !important;
+  color: #0f4c81 !important;
+  font-weight: 600 !important;
   text-decoration: underline;
-  transition: all 0.3s ease;
+  transition: color 0.2s ease;
 }
 
 .recruitment-email:hover {
-  color: #b71c1c !important;
-  background-color: rgba(255, 107, 107, 0.1);
-  padding: 2px 6px;
-  border-radius: 4px;
+  color: #093456 !important;
 }
 
 #email-display {
-  color: #d32f2f !important;
-  font-weight: bold !important;
+  color: #0f4c81 !important;
+  font-weight: 600 !important;
   text-decoration: underline;
-  transition: all 0.3s ease;
+  transition: color 0.2s ease;
   user-select: none;
 }
 
 #email-display:hover {
-  color: #b71c1c !important;
-  background-color: rgba(255, 107, 107, 0.1);
-  padding: 2px 6px;
-  border-radius: 4px;
+  color: #093456 !important;
 }
 
-/* Special styling for NJU students section */
 .recruitment-section .recruitment-list li strong {
-  color: #d32f2f !important;
-  font-weight: bold !important;
-  background: linear-gradient(45deg, #ffebee, #ffcdd2);
-  padding: 2px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #d32f2f;
+  color: #1f2937 !important;
+  font-weight: 700 !important;
+  background: transparent;
+  padding: 0;
+  border-left: none;
 }
 
-/* Highlight the office location */
 .recruitment-section .recruitment-list li.office-highlight {
-  background-color: rgba(255, 235, 238, 0.3);
-  padding: 8px 12px;
+  background-color: #eef4fb;
+  padding: 7px 10px;
   border-radius: 6px;
-  border: 1px solid #ffcdd2;
+  border: 1px solid #d8e4f2;
   margin: 5px 0;
-}
-
-/* Animation for attention */
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-  100% { transform: scale(1); }
-}
-
-.recruitment-section:hover {
-  animation: pulse 0.6s ease-in-out;
 }
 
 </style>
@@ -162,10 +130,7 @@ function showEmail() {
   // Replace the span with the link
   emailDisplay.parentNode.replaceChild(link, emailDisplay);
   
-  // Optional: Add a small delay and then open the email client
-  setTimeout(() => {
-    window.location.href = mailtoLink;
-  }, 100);
+  // Keep interaction unobtrusive: reveal email without auto-opening the mail client.
 }
 
 // Additional protection: prevent right-click on email display

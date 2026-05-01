@@ -8,14 +8,14 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-王帅博士现任南京大学智能科学与技术学院准聘副教授。2014年在[谢磊教授](http://lxie.npu-aslp.org/)指导下于西北工业大学获学士学位，2020年在[俞凯教授](https://x-lance.github.io/kaiyu/)与[钱彦旻教授](https://audiocc.sjtu.edu.cn/en/members/yanmin.qian)指导下于上海交通大学获博士学位。加入南京大学之前，他在香港中文大学（深圳）[李海洲教授](https://www.colips.org/~eleliha/)团队任研究科学家（目前仍兼任）。此外，曾在腾讯光子工作室任高级研究科学家，负责面向游戏的语音技术研发与团队管理。
+王帅博士现任南京大学智能科学与技术学院准聘副教授。2014 年在[谢磊教授](http://lxie.npu-aslp.org/)指导下于西北工业大学获得学士学位，2020 年在[俞凯教授](https://x-lance.github.io/kaiyu/)与[钱彦旻教授](https://audiocc.sjtu.edu.cn/en/members/yanmin.qian)指导下于上海交通大学获得博士学位。
 
-研究方向包括说话人建模、目标说话人处理、语音合成、语音转换与音乐生成等，在语音领域顶级会议/期刊发表论文60余篇。
+加入南京大学之前，他曾在香港中文大学（深圳）[李海洲教授](https://www.colips.org/~eleliha/)团队任研究科学家（目前仍兼任），并在腾讯光子工作室担任高级研究科学家，负责面向游戏场景的语音技术研发与团队管理。研究方向包括说话人建模、目标说话人处理、语音合成、语音转换与音乐生成等，在语音领域顶级会议和期刊发表论文 60 余篇。
 
-# 🔥 招生课题
+# 研究方向与招生课题
 {: id="-openings"}
 
-<p class="openings-emphasis">本人正在招收2027年秋季入学的研究生（含博士与硕士），以及科研助理；若你对以下方向感兴趣，欢迎附简历发邮件联系：</p>
+<p class="openings-emphasis">欢迎对以下研究方向感兴趣的同学联系申请。当前开放 2027 年秋季研究生（博士/硕士）名额，同时长期招收科研助理（RA）。</p>
 
 - 说话人建模（Speaker Modeling）
 - 目标说话人处理（Target Speaker Processing）
@@ -28,21 +28,11 @@ author_profile: true
 
 <span class='anchor' id='-recruitment'></span>
 
-## 🎓 招生信息
-
-<div class="video-container" style="text-align: center; margin: 20px 0;">
-  <p style="font-size: 14px; color: #666; margin-bottom: 10px; font-style: italic;">
-    基于论文 <a href="https://arxiv.org/abs/2506.07634" target="_blank" style="color: #007acc; text-decoration: none;">SongBloom</a> 生成的欢迎演示
-  </p>
-  <video width="50%" max-width="500px" controls style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <source src="{{ site.baseurl }}/images/zhike_song.mp4" type="video/mp4">
-    您的浏览器不支持视频播放。
-  </video>
-</div>
+## 招生信息
 
 <div class="recruitment-section">
 
-<h3 class="recruitment-title">🔥 2027级硕士、博士研究生招生</h3>
+<h3 class="recruitment-title">2027 级硕士/博士研究生招生</h3>
 
 <p class="recruitment-subtitle">招生方向</p>
 <ul class="recruitment-list">
@@ -57,17 +47,17 @@ author_profile: true
 <p class="recruitment-subtitle">申请要求</p>
 <ul class="recruitment-list">
 <li>主动性强，有较强的自我驱动力</li>
-<li>好奇心强，对新技术有强烈探索欲望</li>
+<li>具备扎实的数学与编程基础（Python/C++）</li>
 <li>计算机科学、电子工程或相关专业背景</li>
-<li>对语音处理、机器学习有浓厚兴趣</li>
-<li>良好的编程能力（Python/C++）</li>
+<li>对语音处理、机器学习或生成模型有浓厚兴趣</li>
 <li>英语读写能力良好</li>
 </ul>
 
-<p class="recruitment-subtitle">联系方式</p>
+<p class="recruitment-subtitle">申请方式</p>
 <ul class="recruitment-list">
 <li>邮箱：<span id="email-display" class="recruitment-email" style="cursor: pointer;" onclick="showEmail()">点击显示邮箱</span></li>
-<li>请附上简历、成绩单和研究兴趣陈述</li>
+<li>请附上：简历、成绩单（本科/硕士）、研究兴趣说明（可含代表性项目）</li>
+<li>邮件标题建议格式：<strong>申请类型-姓名-学校-年级</strong></li>
 </ul>
 
 <p class="recruitment-subtitle"><strong>南大智科学生特别说明</strong></p>
@@ -77,7 +67,7 @@ author_profile: true
 <li>实习期间可参与实际科研项目</li>
 </ul>
 
-<p class="recruitment-subtitle"><strong>🔬 科研助理（RA）招聘</strong></p>
+<p class="recruitment-subtitle"><strong>科研助理（RA）招聘</strong></p>
 <ul class="recruitment-list">
 <li><strong>常年招收：</strong>欢迎本科生、研究生申请科研助理岗位</li>
 <li><strong>工作地点：</strong>
@@ -100,14 +90,14 @@ author_profile: true
 
 </div>
 
-# 📚 教学
+# 教学
 {: id="-teaching"}
 
 - [智能语音技术，2025 秋季](/teaching/ist25fall.html)
 
 ---
 
-# 👨‍🎓 学生
+# 学生
 {: id="-students"}
 
 ## 南京大学
@@ -136,12 +126,12 @@ author_profile: true
 - [Junjie Li](https://mrjunjieli.github.io/)，现为香港理工大学博士生。
 - Shaole Li（现为香港理工大学博士生）。
 
-# 📝 论文
+# 论文
 {: id="-publications"}
 
 最新论文请见 [Google Scholar](https://scholar.google.com/citations?user=vW1ZaucAAAAJ)。
 
-# 🪜 开源项目
+# 开源项目
 
 - [WeSpeaker](https://github.com/wenet-e2e/wespeaker)：说话人嵌入学习工具包，支持工业规模训练。
 - [WeSep](https://github.com/wenet-e2e/wesep)：首个开源目标说话人提取工具包 [[演示]](/research/demos/wesep_demo.html)
@@ -150,7 +140,7 @@ author_profile: true
 - [Real-T](https://real-tse.github.io/)：面向目标说话人提取的真实对话场景基准数据集。
 - [MSU-Bench](https://aslp-lab.github.io/msu-bench.github.io/)：面向大语音语言模型评测的多层次、多说话人、多语言、多场景、多任务基准。
 
-# 🎖 荣誉与奖励
+# 荣誉与奖励
 {: id="-honors-and-awards"}
 - *2024* ISCSLP 2024 最佳论文奖
 - *2024* ISCSLP 2024 最佳学生论文奖
@@ -158,13 +148,13 @@ author_profile: true
 - *2019* DIHARD 2019：四个赛道均第 1 名
 - *2018* IEEE Ganesh N. Ramaswamy Memorial Student Grant
 
-# 🌅 学术服务
+# 学术服务
 {: id="-services"}
 担任多个会议与期刊的常规审稿人，包括 ICASSP、Interspeech、ASRU、SLT、T-ASLP、Computer Speech & Language、Speech Communication；以及 ICML、Neurips、AAAI、ACM MM 等。
 
 曾任 APSIPA 2025 Special Session Chair、ICASSP 2025 苏州卫星会 Operation Chair、SLT 2024 Publication Chair。
 
-# 💬 邀请报告
+# 邀请报告
 {: id="-invited-talks"}
 - *2024.09*，[Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/)，布尔诺理工大学。[\[视频\]](https://www.youtube.com/live/FMY5_smgrYY)
 - *2025.08*，[One Embedding Doesn't Fit All — Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm)，Interspeech 2025 MLC Workshop。[[幻灯片]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
