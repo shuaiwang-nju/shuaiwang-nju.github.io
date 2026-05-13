@@ -135,18 +135,18 @@ His research interest includes speaker modeling,target speaker processing,  spee
 - [Shengfan Shen](https://ssf-1103.github.io/), Master Student, Speech Synthesis, 2026 Fall. Intern at Xiaomi.
 - Zihan Qian, Undergraduate Student, Intern at Tencent.
 
-## Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/)
-
+<!-- ## Ph.D. students jointly supervised with Prof. [Haizhou Li](https://www.colips.org/~eleliha/) -->
+<!-- 
 - [Sixiang Lyu](), 2026 Fall, Target Speaker Processing, Speech Synthesis. Shenzhen Loop Area Institute. Intern at Xiaomi.
 - Duojia Li, 2025 Fall, Target Speaker Processing, Shenzhen Loop Area Institute.
-- Shuhan Zhang, 2025 Fall, Audio-Visual Target Speaker Processing, Shenzhen Loop Area Institute.
-- Chenyu Yang, 2024 Fall, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划） and Microsoft Asia.
+- Shuhan Zhang, 2025 Fall, Audio-Visual Target Speaker Processing, Shenzhen Loop Area Institute. -->
+<!-- - Chenyu Yang, 2024 Fall, CUHK-Shenzhen, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划） and Microsoft Asia.
 - [Zhijun Liu](https://zjlww.github.io/), 2023 Fall, CUHK-Shenzhen, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
 - [Qibing Bai](https://p1ping.github.io/), 2023 Fall, CUHK-Shenzhen, Accent Conversion, Intern at Tencent TEA-Lab
 - [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/), 2022 Fall,CUHK-Shenzhen, Speech Syntesis, Intern at NetEase and Meta FAIR.
 - [Wenxuan Wu](https://alexwxwu.github.io/), 2022 Fall, CUHK, Target Speech Extraction.
 - Wupeng Wang, NUS, Speech Separation, (Graduated, now at Alibaba)
-- Yi Ma, NUS, Speaker Recognition, (Graduated, now at ASTAR, Singapore)
+- Yi Ma, NUS, Speaker Recognition, (Graduated, now at ASTAR, Singapore) -->
 
 ## Past students
 

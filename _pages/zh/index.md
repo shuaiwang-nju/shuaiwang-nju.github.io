@@ -108,7 +108,7 @@ author_profile: true
 - [Shengfan Shen](https://ssf-1103.github.io/)，硕士生，语音合成，2026 秋入学。小米实习。
 - Zihan Qian，本科生，曾在腾讯实习。
 
-## 与李海洲教授联合指导的博士生
+<!-- ## 与李海洲教授联合指导的博士生
 
 - [Sixiang Lyu]()，2026 秋，目标说话人处理、语音合成，深圳河套学院。曾在小米实习。
 - Duojia Li，2025 秋，目标说话人处理，深圳河套学院。
@@ -119,7 +119,7 @@ author_profile: true
 - [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/)，2022 秋，港中深，语音合成，曾在网易、Meta FAIR 实习。
 - [Wenxuan Wu](https://alexwxwu.github.io/)，2022 秋，港中大，目标语音提取。
 - Wupeng Wang，新加坡国立大学，语音分离（已毕业，现于阿里巴巴）。
-- Yi Ma，新加坡国立大学，说话人识别（已毕业，现于新加坡 ASTAR）。
+- Yi Ma，新加坡国立大学，说话人识别（已毕业，现于新加坡 ASTAR）。 -->
 
 ## 往届学生
 
