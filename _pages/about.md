@@ -136,7 +136,7 @@ His research interest includes speaker modeling,target speaker processing,  spee
 - Zihan Qian, Undergraduate Student, Intern at Tencent (will join Tencent as FTE).
 
 ## Collaborating closely 
-- [Jing Peng](https://pigeondan1.github.io/), SJTU, 2026 Fall, ASR and Speech Understanding.
+- [Jing Peng](https://pigeondan1.github.io/), SJTU, 2025 Fall, ASR and Speech Understanding.
 - Chenyu Yang, CUHK-Shenzhen, 2024 Fall, Music Generation, Intern at Tencent AILab （犀牛鸟人才计划）Microsoft Asia and Bytedance.
 - [Zhijun Liu](https://zjlww.github.io/), CUHK-Shenzhen, 2023 Fall, Speech Synthesis, Intern at NetEase and Bytedance (TopSeed)
 - [Qibing Bai](https://p1ping.github.io/), CUHK-Shenzhen, 2023 Fall, Accent Conversion, Intern at Tencent TEA-Lab
