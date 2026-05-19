@@ -100,29 +100,25 @@ author_profile: true
 # 学生
 {: id="-students"}
 
-## 南京大学
-- [Haoyu Li](https://gnafiy.github.io/academic-research/)，博士生，以说话人为中心的理解，2026 秋入学。阿里巴巴、华为实习。
-- [Ziyi Chen](https://chenziyi-orange.github.io/)，博士生，说话人分割，2026 秋入学。华为实习。
-- [Qituan Shangguan](https://shangguanqituan.github.io/)，硕士生，说话人识别，2026 秋入学。 Soul AI Lab 实习。
-- [Ye Tao](https://ty0402.github.io/)，硕士生，视听语音与音频生成，2026 秋入学。
-- [Shengfan Shen](https://ssf-1103.github.io/)，硕士生，语音合成，2026 秋入学。小米实习。
-- Zihan Qian，本科生，曾在腾讯实习。
+## 南京大学指导学生
+- [Haoyu Li](https://gnafiy.github.io/academic-research/)，博士生，研究方向：以说话人为中心的语音理解。2026年秋季入学。曾在阿里巴巴与华为实习。
+- [Ziyi Chen](https://chenziyi-orange.github.io/)，博士生，研究方向：说话人日志（Speaker Diarization）。2026年秋季入学。曾在华为实习。
+- [Qituan Shangguan](https://shangguanqituan.github.io/)，硕士生，研究方向：说话人识别。2026年秋季入学。曾在 Soul AI Lab 实习。
+- [Ye Tao](https://ty0402.github.io/)，硕士生，研究方向：音视觉语音与音频生成。2026年秋季入学，曾在上海浦江实验室，video rebirth 实习。
+- [Shengfan Shen](https://ssf-1103.github.io/)，硕士生，研究方向：语音合成。2026年秋季入学。曾在小米实习。
+- Zihan Qian，本科生。曾在腾讯实习，将入职腾讯。
 
-<!-- ## 与李海洲教授联合指导的博士生
-
-- [Sixiang Lyu]()，2026 秋，目标说话人处理、语音合成，深圳河套学院。曾在小米实习。
-- Duojia Li，2025 秋，目标说话人处理，深圳河套学院。
-- Shuhan Zhang，2025 秋，视听目标说话人处理，深圳河套学院。
-- Chenyu Yang，2024 秋，港中深，音乐生成，曾在腾讯 AILab（犀牛鸟人才计划）、微软亚洲研究院实习。
-- [Zhijun Liu](https://zjlww.github.io/)，2023 秋，港中深，语音合成，曾在网易、字节跳动（TopSeed）实习。
-- [Qibing Bai](https://p1ping.github.io/)，2023 秋，港中深，口音转换，曾在腾讯 TEA-Lab 实习。
-- [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/)，2022 秋，港中深，语音合成，曾在网易、Meta FAIR 实习。
-- [Wenxuan Wu](https://alexwxwu.github.io/)，2022 秋，港中大，目标语音提取。
-- Wupeng Wang，新加坡国立大学，语音分离（已毕业，现于阿里巴巴）。
-- Yi Ma，新加坡国立大学，说话人识别（已毕业，现于新加坡 ASTAR）。 -->
+## 密切合作学生
+- [Jing Peng](https://pigeondan1.github.io/), 上海交大, 2025 秋季, 语音识别，语音理解.
+- Chenyu Yang，2024年秋季，港中深，研究方向：音乐生成。曾在腾讯 AI Lab（犀牛鸟人才计划）、微软亚洲研究院及字节跳动实习。
+- [Zhijun Liu](https://zjlww.github.io/)，港中深，2023年秋季，研究方向：语音合成。曾在网易及字节跳动（TopSeed计划）实习。
+- [Qibing Bai](https://p1ping.github.io/)，港中深，2023年秋季，研究方向：口音转换。曾在腾讯 TEA-Lab 实习。
+- [Sho Inoue](https://www.linkedin.com/in/sho-inoue-41646a1a2/)，港中深，2022年秋季，研究方向：语音合成。曾在网易及 Meta FAIR 实习。
+- [Wenxuan Wu](https://alexwxwu.github.io/)，港中文，2022年秋季，研究方向：目标语音提取。
 
 ## 往届学生
-
+- Wupeng Wang，新加坡国立大学 (NUS)，研究方向：语音分离。（已毕业，现就职于阿里巴巴，南京大学联合培养博士后）
+- Yi Ma，新加坡国立大学 (NUS)，研究方向：说话人识别。（已毕业，现就职于新加坡 A*STAR）
 - [Junjie Li](https://mrjunjieli.github.io/)，现为香港理工大学博士生。
 - Shaole Li（现为香港理工大学博士生）。
 
@@ -134,7 +130,7 @@ author_profile: true
 # 开源项目
 
 - [WeSpeaker](https://github.com/wenet-e2e/wespeaker)：说话人嵌入学习工具包，支持工业规模训练。
-- [WeSep](https://github.com/wenet-e2e/wesep)：首个开源目标说话人提取工具包 [[演示]](/research/demos/wesep_demo.html)
+- [WeSep](https://github.com/wenet-e2e/wesep)：首个开源目标说话人提取工具包 [演示](/research/demos/wesep_demo.html)
 - [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)：基于扩散的节奏音乐生成，快速高效。
 - [SongBloom](https://github.com/Cypress-Yang/SongBloom)：自回归扩散音乐生成，高质量、高保真、高多样性。
 - [Real-T](https://real-tse.github.io/)：面向目标说话人提取的真实对话场景基准数据集。
@@ -156,8 +152,8 @@ author_profile: true
 
 # 邀请报告
 {: id="-invited-talks"}
-- *2024.09*，[Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/)，布尔诺理工大学。[\[视频\]](https://www.youtube.com/live/FMY5_smgrYY)
-- *2025.08*，[One Embedding Doesn't Fit All — Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm)，Interspeech 2025 MLC Workshop。[[幻灯片]]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
-- *2025.08*，The Real-T Dataset（面向目标说话人提取的真实对话混合数据），Interspeech 2025。[[幻灯片]]({{ site.baseurl }}/assets/slides/talk_real-t_is25.pdf)
-- *2025.10*，深度说话人表示学习，教程，NCMMSC 2025。[[中文幻灯片]]({{ site.baseurl }}/assets/slides/NC25_tutorial.pdf)
-- *2025.10*，深度说话人表示学习，教程，APSIPA 2025。[[英文幻灯片]]({{ site.baseurl }}/assets/slides/apsipa25_tutorial.pdf)
+- *2024.09*，[Speaker Representation Learning: Theories, Applications and Practice](https://vgs-it.fit.vutbr.cz/2024/09/03/shuai-wang-speaker-representation-learning-theories-applications-and-practiceshuai-wang/)，布尔诺理工大学。[\[视频\](https://www.youtube.com/live/FMY5_smgrYY)
+- *2025.08*，[One Embedding Doesn't Fit All — Rethinking Speaker Modeling for Various Speech Applications](https://www.nexdata.ai/competition/mlc-slm)，Interspeech 2025 MLC Workshop。[幻灯片]({{ site.baseurl }}/assets/slides/mlctalk_speaker_is25.pdf)
+- *2025.08*，The Real-T Dataset（面向目标说话人提取的真实对话混合数据），Interspeech 2025。[幻灯片]({{ site.baseurl }}/assets/slides/talk_real-t_is25.pdf)
+- *2025.10*，深度说话人表示学习，教程，NCMMSC 2025。[中文幻灯片]({{ site.baseurl }}/assets/slides/NC25_tutorial.pdf)
+- *2025.10*，深度说话人表示学习，教程，APSIPA 2025。[英文幻灯片]({{ site.baseurl }}/assets/slides/apsipa25_tutorial.pdf)
